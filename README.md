@@ -1,6 +1,6 @@
 # YetGenCorePython3
 Bu repo Core Python içerikleri için oluşturulmuştur. 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyetkingencler.com%2Fbasvuru%2F&psig=AOvVaw0KBUaoypxNxKUiFyOzWMdr&ust=1716578363504000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDN4_a-pIYDFQAAAAAdAAAAABAQ)
+![](image.png)
 🇹🇷 TUR
 
 YetGen Core Python Eğitim Programı, YetGen tarafından hazırlanan; Python ve Git’e Giriş, Python Temelleri, Karar Yapıları ve Döngüler, Veri Yapıları, Fonksiyonlar, Kütüphaneler ve Hata Yönetimi, Dosya İşlemleri ve Nesne Yönelimli Programlama, Numpy, Pandas ve Matplotlib  gibi konuların uygulamalar, canlı dersler ve lider atölyeleri ile desteklendiği 12 haftalık bir eğitim programıdır.
